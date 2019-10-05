@@ -2,7 +2,7 @@
 mpv HEAD only formula.
 
 # Install
-`brew install --HEAD aerobounce/mpv-HEAD/mpv`
+`brew install --HEAD rayshan/mpv-HEAD/mpv`
 
 # Why
 - mpv formula has been removed from homebrew-core.
